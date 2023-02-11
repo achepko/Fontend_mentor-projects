@@ -1,3 +1,2 @@
 # Fontend_mentor-projects
-This is repo for my pet-projects
-SSSS
+This is a solution to the Product preview card component challenge on Frontend Mentor.
