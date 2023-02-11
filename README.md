@@ -46,24 +46,18 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
+I learned how to change icon of tab in browser.
 ```html
-<img
-	srcset="images/image-product-desktop.jpg 600w, images/image-product-mobile.jpg 686w"
-	sizes="(max-width: 600px) 686px, 300px"
-	src="images/image-product-desktop.jpg"
-	alt="A bottle of perfume surrounded by foliage"
->
+
+<link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+
 ```
 
 ### Useful resources
 
-- [Complete guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Great reference for Flexbox
-- [Responsive Images: Reference Guide](https://imagekit.io/responsive-images/) - Extremely comprehensive guide to respomsive images
+- [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox) - Basic concepts of flexbox
+- [Fivicon](https://developer.mozilla.org/en-US/docs/Glossary/Favicon) - Information of fivicon
 
 ## Author
+- Frontend Mentor - [@achepko](https://www.frontendmentor.io/profile/achepko)
 
-- Website - [Jenny Mikac](https://www.jennymikac.com)
-- Frontend Mentor - [@ymaudlinmandrake](https://www.frontendmentor.io/maudlinmandrake)
-- Twitter - [@jennymikac](https://www.twitter.com/jennymikac)
