@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/maudlinmandrake/product-preview-card-component)
-- Live Site URL: [Live](https://maudlinmandrake.github.io/product-preview-card-component)
+- Solution URL: [Solution](https://github.com/achepko/P1-product-preview-card-component)
+- Live Site URL: [Live](https://achepko.github.io/P1-product-preview-card-component/)
 
 ## My process
 
@@ -42,7 +42,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Visual Studio Code
+- IntelliJ IDEA 2022.3
 
 ### What I learned
 
