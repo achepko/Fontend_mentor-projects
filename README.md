@@ -56,7 +56,7 @@ I learned how to change icon of tab in browser.
 ### Useful resources
 
 - [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox) - Basic concepts of flexbox
-- [Fivicon](https://developer.mozilla.org/en-US/docs/Glossary/Favicon) - Information of fivicon
+- [Favicon](https://developer.mozilla.org/en-US/docs/Glossary/Favicon) - Information of favicon
 
 ## Author
 - Frontend Mentor - [@achepko](https://www.frontendmentor.io/profile/achepko)
